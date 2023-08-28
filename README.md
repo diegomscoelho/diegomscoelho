@@ -1,4 +1,8 @@
-### Hi there 👋
+### Resume
+
+Software developer with vast experience in bioinformatics and data mining/analysis with a record of collaborations in scientific projects and private companies worldwide.
+  • Capable of using new technologies to develop creative solutions with speed and efficiency.
+  • With methodology and skills to decompose complex problems into discrete and executable tasks
 
 <!--
 **diegomscoelho/diegomscoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
